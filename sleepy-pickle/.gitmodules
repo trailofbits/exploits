@@ -1,0 +1,3 @@
+[submodule "rome"]
+	path = sleepy-gpt/rome
+	url = https://github.com/trail-of-forks/rome.git
