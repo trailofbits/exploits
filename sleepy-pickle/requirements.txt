@@ -45,7 +45,7 @@ python-dateutil==2.8.2
 pytz==2023.3.post1
 PyYAML==6.0.1
 regex==2023.12.25
-requests==2.31.0
+requests==2.32.4
 rometools @ git+https://github.com/trail-of-forks/rome.git@1fe4e60954db7d3a1fe84eda4c7d4bcb5f2cda2b
 safetensors==0.4.1
 six==1.16.0
